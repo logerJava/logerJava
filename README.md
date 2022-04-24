@@ -1,8 +1,6 @@
 ### 你好 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=logerJava&theme=dracula&show_icons=true" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logerJava" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=logerJava&show_icons=true&title_color=ff7372&icon_color=6cffd0&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 😆 很高兴您来访问我的主页
 
@@ -13,6 +11,8 @@
 - 😄 最后, 希望我们可以共同进步
 
 ### Hi there 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logerJava" />
 
 😆 I'm glad you came to visit my home page
 
