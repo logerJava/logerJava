@@ -17,7 +17,7 @@
 😆 I'm glad you came to visit my home page
 
 - 🔭 I am a Java engineer
-- 🌱 Open Warehouse : phoebe, Design-patterns and loger
+- 🌱 Open Warehouse : phoebe, design-patterns and loger
 - 👯 My wechat Official Accounts : logerJava
 - 🤔 If you want to contact me, Please follow **logerJava**, To get my wechat
 - 😄 Finally, I hope we can make progress together
